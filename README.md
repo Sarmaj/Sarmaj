@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Sarmaj/Sarmaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Sarmaj/Sarmaj**
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: S569080@nwmissouri.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
