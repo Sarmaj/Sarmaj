@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Sarmaj/Sarmaj**
+**Teja teja**
 
 Here are some ideas to get you started:
 
