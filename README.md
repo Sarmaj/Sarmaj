@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Teja teja**
+**Sai teja**
 
 Here are some ideas to get you started:
 
